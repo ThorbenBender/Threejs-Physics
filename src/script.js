@@ -228,7 +228,7 @@ const createBox = (size, position) => {
 };
 
 createSphere(0.5, { x: 0, y: 3, z: 0 });
-createBox(0.5, { x: 2, y: 0, z: 0 });
+// createBox(0.5, { x: 2, y: 0, z: 0 });
 
 /**
  * Animate
